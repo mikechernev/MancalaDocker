@@ -1,0 +1,6 @@
+[submodule "MancalaApi"]
+	path = MancalaApi
+	url = git@github.com:mikechernev/MancalaApi.git
+[submodule "MancalaWeb"]
+	path = MancalaWeb
+	url = git@github.com:mikechernev/MancalaWeb.git
